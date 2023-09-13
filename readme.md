@@ -1,4 +1,4 @@
-#                       **PROYECTO INDIVIDUAL Nº2
+#                       PROYECTO INDIVIDUAL Nº2
 
 
 
